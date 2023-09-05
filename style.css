@@ -6,11 +6,15 @@ body{
 
 }
 
-footer{
+header{
     background-color: #5cd7e7;
-    padding-top: 20px;
-    height: 60px;
-    margin-top: 30px;
+    height: 150px;
+    margin-bottom: 30px;
+
+}
+
+.titleHeader{
+    text-shadow: 1px 1px 1px black;
 
 }
 
@@ -29,19 +33,16 @@ footer{
 
 }
 
-header{
-    background-color: #5cd7e7;
-    height: 150px;
-    margin-bottom: 30px;
-
-}
 
 .texto{
     padding: 20px;
-}
 
-.welcome{
-    text-shadow: 1px 1px 1px black;
 }
 
 
+footer{
+    background-color: #5cd7e7;
+    height: 40px;
+    margin-top: 30px;
+
+}
